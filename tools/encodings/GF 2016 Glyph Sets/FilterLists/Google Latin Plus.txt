@@ -349,7 +349,7 @@ grave
 acute
 circumflex
 caron
-caronalt
+caroncomb.alt
 tilde
 dieresis
 macron
